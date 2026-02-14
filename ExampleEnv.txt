@@ -1,0 +1,5 @@
+OPENROUTER_API_KEY=sk-or-v1-xxxx
+HYBLOCK_LOGIN_URL=https://hyblockcapital.com/login
+HYBLOCK_TARGET_URL=https://hyblockcapital.com/backtesting-lab/strategy-simulator
+HEADLESS_MODE=False
+MODEL_NAME=nvidia/nemotron-nano-9b-v2:free
